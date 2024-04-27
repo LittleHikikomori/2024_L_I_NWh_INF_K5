@@ -45,7 +45,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
 
   ```
-  ...
+  ...make 
 
   # aktywacja 
   $ source .venv/Scripts/activate
